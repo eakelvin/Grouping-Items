@@ -1,0 +1,46 @@
+body {
+    padding: 40px;
+    background: whitesmoke;
+    text-align: center;
+}
+
+#apple-shelf {
+    background: green;
+    border-radius: 10px;
+    height: 50px;
+    margin: 20px 0;
+}
+
+#orange-shelf {
+    background: orange;
+    border-radius: 10px;
+    height: 50px;
+    margin: 20px 0;
+}
+
+#banana-shelf {
+    background: yellow;
+    border-radius: 10px;
+    height: 50px;
+    margin: 20px 0;
+}
+
+#mango-shelf {
+    background: yellowgreen;
+    border-radius: 10px;
+    height: 50px;
+    margin: 20px 0;
+}
+
+#pawpaw-shelf {
+    background: orangered;
+    border-radius: 10px;
+    height: 50px;
+    margin: 20px 0;
+}
+
+#strawberry-shelf {
+    background: pink;
+    border-radius: 10px;
+    height: 50px;
+}
